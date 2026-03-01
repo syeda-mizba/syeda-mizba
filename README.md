@@ -26,35 +26,35 @@ Strengthen system design and cloud deployment skills</h3>
 
 ---
 
-#About Me
+About Me
 3rd Year CSE Student at The National Institute of Engineering, Mysore  
 Passionate about Enterprise Software Systems & Scalable Backend Architecture  
 Strong foundation in DSA, OOP, Databases & System Design  
 Interested in Data-Driven Applications & Analytics Systems  
 Currently building production-style database applications  
 
-#Tech Stack
-#Languages
+Tech Stack
+Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-### Frameworks & Libraries
+Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=flask,fastapi,react,nodejs,spring" />
 </p>
 
-#Databases
+Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-# Tools & Cloud
+Tools & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman" />
 </p>
 
-#2026 Goals
+2026 Goals
 
 - Build scalable backend systems
 -  Deploy full-stack apps on AWS
@@ -63,7 +63,7 @@ Currently building production-style database applications
 - Strengthen DSA & problem-solving consistency
 
 
-# Education
+Education
 B.E. in Computer Science & Engineering 
 The National Institute of Engineering, Mysore  
 2024 – 2027 | CGPA: 8.5  
@@ -72,7 +72,7 @@ Diploma in Computer Science Engineering
 CPC Polytechnic  
 2020 – 2023 | 98%  
 
-#Connect With Me
+Connect With Me
 <p align="left">
 <a href="https://github.com/syeda-mizba" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />

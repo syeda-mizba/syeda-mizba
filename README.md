@@ -63,15 +63,6 @@ Tools & Cloud
 - Strengthen DSA & problem-solving consistency
 
 
-Education
-B.E. in Computer Science & Engineering 
-The National Institute of Engineering, Mysore  
-2024 – 2027 | CGPA: 8.5  
-
-Diploma in Computer Science Engineering 
-CPC Polytechnic  
-2020 – 2023 | 98%  
-
 Connect With Me
 <p align="left">
 <a href="https://github.com/syeda-mizba" target="_blank">

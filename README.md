@@ -1,18 +1,18 @@
 <h1 align="center">Hi , I'm Mizba</h1>
-<h3 align="center">A passionate CS Engineering Student</h3>
-<h3 align="center">Building practical systems that solve real-world problems through software and data.</h3>
+<h3 align="center">A CS Engineering Student</h3>
+<h3 align="center">Building practical systems that solve real world problems through software and data.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/syeda mizba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda mizba" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/syeda-mizba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda mizba" height="30" width="40" /></a>
 <a href="https://instagram.com/mizy.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mizy.tech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mizy.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mizy.codes" height="30" width="40" /></a>
 </p>
 <h3 align="center">GitHub Goals (2026)
 
-Build production-ready projects
-Contribute to open-source data projects
-Develop enterprise-level full-stack applications
+Build production ready projects
+Contribute to open source data projects
+Develop enterprise level full-stack applications
 
 Strengthen system design and cloud deployment skills</h3>
 <h1 align="center">Hi, I'm Syeda Mizba</h1>
@@ -31,7 +31,7 @@ About Me
 Passionate about Enterprise Software Systems & Scalable Backend Architecture  
 Strong foundation in DSA, OOP, Databases & System Design  
 Interested in Data-Driven Applications & Analytics Systems  
-Currently building production-style database applications  
+Currently building production-style database applications. 
 
 Tech Stack
 Languages
@@ -56,11 +56,11 @@ Tools & Cloud
 
 2026 Goals
 
-- Build scalable backend systems
--  Deploy full-stack apps on AWS
-- Master System Design fundamentals
-- Contribute to Open Source
-- Strengthen DSA & problem-solving consistency
+Build scalable backend systems
+ Deploy full-stack apps on AWS
+Master System Design fundamentals
+Contribute to Open Source
+Strengthen DSA & problem-solving consistency
 
 
 Connect With Me
@@ -73,6 +73,6 @@ Connect With Me
 </a>
 </p>
 
-2024lcs_syedamizba_d@nie.ac.in
-<h3 align="center">✨ Building reliable systems powered by clean architecture & data intelligence ✨</h3>
+mizbaaasyedaaa@gmail.com
+<h3 align="center"> Building reliable systems powered by clean architecture & data intelligence </h3>
 
